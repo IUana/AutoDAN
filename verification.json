@@ -1,0 +1,16 @@
+{
+  "validation_count": 120,
+  "paired_verdict_slots": 1950,
+  "unique_judge_inputs": 1460,
+  "paid_api_calls": 0,
+  "gpu_generations": 0,
+  "xstest_question_source": "Locally preserved author CSV matched by replay IDs, not freshly downloaded AutoDL prompt maps",
+  "xstest_csv_sha256": "11783fb294ed017473ee53c207d71f2161c7672c8d0b037501e78387f801cb5a",
+  "attack_map_source": "C:\\Users\\PC\\Downloads\\qwen3_0_table1.json",
+  "unit_tests_passed": 17,
+  "tested_script_sha256": {
+    "judge_calibration_responses.py": "9baae523a8cef18d71c621c9d25eefa1eba4485434800df6b080a6984d09478e",
+    "judge_p0_replays.py": "5e1ad5afe8d3268179d1a9cfc1ee383751b8993224a9e35d603e04a88e52d301"
+  },
+  "final_pair_manifest": "qa/paired_final/manifest.json"
+}
